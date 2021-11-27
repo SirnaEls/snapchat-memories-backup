@@ -1,0 +1,14 @@
+{
+  "name": "snapchat-memories-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snapchat-all-memories-downloader": "github:ToTheMax/Snapchat-All-Memories-Downloader"
+  }
+}
