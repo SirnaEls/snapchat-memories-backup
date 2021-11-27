@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start": "live-server"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "snapchat-all-memories-downloader": "github:ToTheMax/Snapchat-All-Memories-Downloader"
   }
 }
